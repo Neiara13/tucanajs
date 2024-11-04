@@ -1,4 +1,3 @@
-    document.addEventListener("DOMContentLoaded", function() {
       const testimonials1 = [
         { name: "Xiyl Mal", server: "Raiden", text: "great place, great people, great jump puzzles!" },
         { name: "Mallesa Tesanu", server: "Cerberus", text: "Great place and well done with a cool idea ♥" },
@@ -141,48 +140,3 @@
         { name: "Naomi Valesti", server: "Phantom", text: "there is no cake cause I ATE IT ALL" },
         { name: "Pumpkin The-ashen-one", server: "Spriggan", text: "Found all 3" }
       ];
-
-      function shuffleArray(array) {
-        for (let i = array.length - 1; i > 0; i--) {
-          const j = Math.floor(Math.random() * (i + 1));
-          [array[i], array[j]] = [array[j], array[i]];
-        }
-        return array;
-      }
-
-      function generateCarouselItems(testimonials) {
-        return testimonials
-          .map((testimonial, index) => `
-            <div class="carousel-item ${index === 0 ? "active" : ""} text-center">
-              <h3>${testimonial.name}</h3>
-              <h4>${testimonial.server}</h4>
-              <p>${testimonial.text}</p>
-            </div>
-          `)
-          .join("");
-      }
-
-      function generateCarousel(testimonials, carouselId) {
-        return `
-          <div id="${carouselId}" class="carousel slide" data-ride="carousel">
-            <div class="carousel-inner">
-              ${generateCarouselItems(testimonials)}
-            </div>
-          </div>
-        `;
-      }
-
-      function renderCarousel(containerId, testimonials) {
-        const uniqueCarouselId = `carousel-${Math.random().toString(36).substr(2, 9)}`;
-        const shuffledTestimonials = shuffleArray([...testimonials]);
-        const carouselContainer = document.getElementById(containerId);
-        carouselContainer.querySelector(".col-md-12").innerHTML = generateCarousel(shuffledTestimonials, uniqueCarouselId);
-
-        $(`#${uniqueCarouselId}`).carousel({
-          interval: 5000,
-        });
-      }
-
-      renderCarousel("carouselContainer1", testimonials1);
-      renderCarousel("carouselContainer2", testimonials2);
-    });
