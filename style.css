@@ -23,17 +23,3 @@
 hr {
   border: none !important;
 }
-
-.carousel-inner, .carousel-item {
-    height: 200px; /* or another fixed height */
-}
-
-.carousel-item {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    height: 100%; /* Adjust this height based on the parent container */
-    text-align: center;
-}
-
