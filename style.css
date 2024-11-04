@@ -24,6 +24,10 @@ hr {
   border: none !important;
 }
 
+.carousel-inner, .carousel-item {
+    height: 200px; /* or another fixed height */
+}
+
 .carousel-item {
     display: flex;
     flex-direction: column;
