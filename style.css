@@ -20,21 +20,6 @@
   margin-top: 20px;
 }
 
-.carousel-inner {
-    height: 200px !important; /* Ensure this is set on the carousel's parent as well */
-}
-
-.carousel-item {
-    justify-content: center !important;
-    height: 200px !important;
-    text-align: center !important;
-}
-
-      .testimonials .carousel-inner .carousel-item {
-        height: 200px;
-      }
-  
-
 hr {
   border: none !important;
 }
