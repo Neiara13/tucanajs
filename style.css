@@ -30,6 +30,11 @@
     text-align: center !important;
 }
 
+      .testimonials .carousel-inner .carousel-item {
+        height: 200px;
+      }
+  
+
 hr {
   border: none !important;
 }
