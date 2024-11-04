@@ -1,5 +1,3 @@
-<!-- Testimonials data 2 -->
-<script>
   const testimonials2 = [
   { name: "Ji-eun Yang", server: "Phantom", text: "3/3 completed! Very nice maze" },
   { name: "Selyah Feanor", server: "Moogle", text: "Amazing maze, (3/3 objectives :D ) Congrats for your housing skills and your website :)" },
@@ -76,4 +74,4 @@
   { name: "Missy Charming", server: "Phantom", text: "it was a hollow victory I found the last one by accident when I fell :'c" },
   { name: "Naomi Valesti", server: "Phantom", text: "there is no cake cause I ATE IT ALL" },
   { name: "Pumpkin The-ashen-one", server: "Spriggan", text: "Found all 3" }
-  ];</script>
+  ];
