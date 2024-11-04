@@ -4,7 +4,7 @@
   font-weight: 600;
   text-shadow: 2px 2px 4px #1F1A1A;
   margin-top: 20px;
-  position: relative;
+  position: relative !important;
 }
 
 .testimonials .carousel-inner .carousel-item h4 {
@@ -12,7 +12,7 @@
   font-weight: 300;
   color: #cad936;
   text-shadow: 2px 2px 4px #1F1A1A;
-  position: relative;
+  position: relative !important;
 }
 
 .testimonials p {
@@ -21,8 +21,8 @@
   color: #FFFFFF;
   text-shadow: 2px 2px 4px #1F1A1A;
   margin-top: 20px;
-  position:absolute;
-  bottom: 0;
+  position:absolute !important;
+  bottom: 0 !important;
 }
 
 hr {
