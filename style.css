@@ -20,6 +20,15 @@
   margin-top: 20px;
 }
 
+.carousel-item {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 400px; /* Set height to ensure vertical centering */
+    text-align: center;
+}
+
 hr {
   border: none !important;
 }
