@@ -16,9 +16,7 @@
 .testimonials p {
   font-size: 30px;
   font-weight: 400;
-  background: -webkit-linear-gradient(#15ff00, #ff8800);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  color: #ffffff;
   text-shadow: 2px 2px 4px #1F1A1A;
   margin-top: 20px;
 }
