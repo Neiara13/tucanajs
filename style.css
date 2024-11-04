@@ -24,11 +24,12 @@ hr {
   border: none !important;
 }
 
-.container {
-    display: flex !important;
-    align-items: center !important;
-    justify-content: center !important;
-    height: 100% !important;
+.carousel-item {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%; /* Adjust this height based on the parent container */
+    text-align: center;
 }
-
 
