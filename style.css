@@ -21,7 +21,7 @@
 }
 
 .carousel-inner {
-    height: 100% !important; /* Ensure this is set on the carousel's parent as well */
+    height: 400px !important; /* Ensure this is set on the carousel's parent as well */
 }
 
 .carousel-item {
