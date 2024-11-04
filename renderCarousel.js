@@ -1,4 +1,3 @@
-<script>
   document.addEventListener("DOMContentLoaded", function() {
   function renderCarousel(containerId, testimonials) {
   const uniqueCarouselId = `carousel-${Math.random().toString(36).substr(2, 9)}`;
@@ -14,4 +13,4 @@
   renderCarousel("carouselContainer1", testimonials1);
   renderCarousel("carouselContainer2", testimonials2);
   });
-  </script>
+
