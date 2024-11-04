@@ -1,5 +1,3 @@
-<!-- Testimonials data 1 -->
-<script>
   const testimonials1 = [
   { name: "Xiyl Mal", server: "Raiden", text: "great place, great people, great jump puzzles!" },
   { name: "Mallesa Tesanu", server: "Cerberus", text: "Great place and well done with a cool idea ♥" },
@@ -64,4 +62,3 @@
   { name: "Abtgr Meatlusch", server: "Sagittarius", text: "Great !!!!" },
   { name: "Lilly Rosewood", server: "Sagittarius", text: "WOW I'm impressed <3" }
   ];
-  </script>
