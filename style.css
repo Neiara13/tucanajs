@@ -16,10 +16,11 @@
 .testimonials p {
   font-size: 30px;
   font-weight: 400;
-background: #00FF00;
-background: linear-gradient(to left, #00FF00 0%, #00FFFF 100%);
--webkit-background-clip: text;
--webkit-text-fill-color: transparent;
+ color: #ff4000; 
+ background-image: radial-gradient(circle, #ff4000 71%, #ff5700 61%, #ff6e00 31%, #ff8500 10%); 
+ background-clip: text; 
+ -webkit-background-clip: text; 
+ -webkit-text-fill-color: transparent; 
   margin-top: 20px;
 }
 
