@@ -1,7 +1,7 @@
     document.addEventListener("DOMContentLoaded", function() {
       const testimonials1 = [
-        { "name": "Pomhub Ceo", "server": "Sagittarius", "text": "floor inspecctor is here to inspecc again" },
-        { "name": "Merlstyr Styrmleita", "server": "Ragnarok", "text": "very pretty place <3" },
+        { name: "Pomhub Ceo", server: "Sagittarius", text: "floor inspecctor is here to inspecc again" },
+        { name: "Merlstyr Styrmleita", server: "Ragnarok", text: "very pretty place <3" },
         { name: "Xiyl Mal", server: "Raiden", text: "great place, great people, great jump puzzles!" },
         { name: "Mallesa Tesanu", server: "Cerberus", text: "Great place and well done with a cool idea ♥" },
         { name: "Michi Edelgard", server: "Ragnarok", text: "smol chinken worked here" },
@@ -67,12 +67,11 @@
       ];
 
       const testimonials2 = [
-        { "name": "Nyanr Meowsalot", "server": "Lich", "text": "Really well done maze, dare I say a-maze-ing" },
-        { "name": "Deotle Bird", "server": "Moogle", "text": "Got lost multiple times. Yet found all three secrets. Nice job" },
-        { "name": "Ry Anesis", "server": "Phantom", "text": "That was a lot of fun, thank you!" },
-        { "name": "Izolanta Hexova", "server": "Sagittarius", "text": "good!!!! ♥" },
-        { "name": "Izolanta Hexova", "server": "Sagittarius", "text": "scary i like" },
-        { "name": "Krays Hexov", "server": "Sagittarius", "text": "good!!!! ♥" },
+        { name: "Nyanr Meowsalot", server: "Lich", text: "Really well done maze, dare I say a-maze-ing" },
+        { name: "Deotle Bird", server: "Moogle", text: "Got lost multiple times. Yet found all three secrets. Nice job" },
+        { name: "Ry Anesis", server: "Phantom", text: "That was a lot of fun, thank you!" },
+        { name: "Izolanta Hexova", server: "Sagittarius", text: "good!!!! ♥" },
+        { name: "Krays Hexov", server: "Sagittarius", text: "scary i like" },
         { name: "Ji-eun Yang", server: "Phantom", text: "3/3 completed! Very nice maze" },
         { name: "Selyah Feanor", server: "Moogle", text: "Amazing maze, (3/3 objectives :D ) Congrats for your housing skills and your website :)" },
         { name: "Ruhi Niyati", server: "Omega", text: "Awesome! I loved it! Thanks for the great experience!" },
