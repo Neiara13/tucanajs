@@ -157,7 +157,10 @@
         { name: "Masha'to Nbolon", server: "Sagittarius", text: "Fun flying in the void....I mean fun maze! :D" },
         { name: "Missy Charming", server: "Phantom", text: "Not too difficult :D" },
         { name: "Neia Ra", server: "Sagittarius", text: "Salem burned those suspected of witchcraft at the stake. Your crimes are far worse and there is no punishment that can provide enough justice." },
-        { name: "Pomhub Ceo", server: "Sagittarius", text: "Yet another maze heh" }
+        { name: "Pomhub Ceo", server: "Sagittarius", text: "Yet another maze heh" },
+        { name: "Nora Sorrento", server: "Omega", text: "T'was a lot of fun .... tough i think i found the skeleton of lost peoples .... o/" },
+        { name: "Sayaka Arita", server: "Omega", text: "most fun place tbh :3" },
+        { name: "Gimimo' Ney", server: "Raiden", text: "lol" }
       ];
 
       function shuffleArray(array) {
