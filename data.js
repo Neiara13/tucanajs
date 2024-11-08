@@ -151,7 +151,7 @@
         { name: "Pumpkin The-ashen-one", server: "Spriggan", text: "Found all 3" }
       ];
 
-          const testimonials3 = [
+      const testimonials3 = [
         { name: "Yumiko Sumeya", server: "Phantom", text: "That was fun and impressive" },
         { name: "Zeno Ritsuso", server: "Sagittarius", text: "Amazing maze <3 Will be back to find all paintings!" },
         { name: "Masha'to Nbolon", server: "Sagittarius", text: "Fun flying in the void....I mean fun maze! :D" },
