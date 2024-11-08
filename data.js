@@ -152,7 +152,7 @@
       ];
 
           const testimonials3 = [
-        { name: "Neia Ra", server: "Sagittarius", text: "This is witchcraft ;_;" }
+        { name: "Neia Ra", server: "Sagittarius", text: "Salem burned those suspected of witchcraft at the stake. Your crimes are far worse and there is no punishment that can provide enough justice." }
       ];
 
       function shuffleArray(array) {
