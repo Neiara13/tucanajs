@@ -152,6 +152,12 @@
       ];
 
       const testimonials3 = [
+        { name: "Ob Sidian", server: "Lich", text: "Awesome maze - definitely lost my soul in there somewhere, if anyone finds it pls return. THanks XD" },
+        { name: "Rowena Helcaris", server: "Shiva", text: "With the power of friendship, we were able to do it!" },
+        { name: "Thira Isobe", server: "Shiva", text: "One false step and you'd have to start all over again... it was exciting! :D" },
+        { name: "Larijena Isobe", server: "Shiva", text: "Hit my head as a Femroe 357 times. 10/10 would recommend" },
+        { name: "Aurora Kokoba", server: "Louisoix", text: "No clue how long it took me to get through this maze but I took severe brain damage from this." },
+        { name: "Elera Shauni", server: "Phantom", text: "Thanks for the fun maze!" },
         { name: "Yumiko Sumeya", server: "Phantom", text: "That was fun and impressive" },
         { name: "Zeno Ritsuso", server: "Sagittarius", text: "Amazing maze <3 Will be back to find all paintings!" },
         { name: "Masha'to Nbolon", server: "Sagittarius", text: "Fun flying in the void....I mean fun maze! :D" },
