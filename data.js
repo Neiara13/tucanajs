@@ -152,7 +152,12 @@
       ];
 
           const testimonials3 = [
-        { name: "Neia Ra", server: "Sagittarius", text: "Salem burned those suspected of witchcraft at the stake. Your crimes are far worse and there is no punishment that can provide enough justice." }
+        { name: "Yumiko Sumeya", server: "Phantom", text: "That was fun and impressive" },
+        { name: "Zeno Ritsuso", server: "Sagittarius", text: "Amazing maze <3 Will be back to find all paintings!" },
+        { name: "Masha'to Nbolon", server: "Sagittarius", text: "Fun flying in the void....I mean fun maze! :D" },
+        { name: "Missy Charming", server: "Phantom", text: "Not too difficult :D" },
+        { name: "Neia Ra", server: "Sagittarius", text: "Salem burned those suspected of witchcraft at the stake. Your crimes are far worse and there is no punishment that can provide enough justice." },
+        { name: "Pomhub Ceo", server: "Sagittarius", text: "Yet another maze heh" }
       ];
 
       function shuffleArray(array) {
