@@ -198,4 +198,5 @@
 
       renderCarousel("carouselContainer1", testimonials1);
       renderCarousel("carouselContainer2", testimonials2);
+      renderCarousel("carouselContainer3", testimonials3);
     });
