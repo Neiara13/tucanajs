@@ -151,6 +151,10 @@
         { name: "Pumpkin The-ashen-one", server: "Spriggan", text: "Found all 3" }
       ];
 
+          const testimonials3 = [
+        { name: "Neia Ra", server: "Sagittarius", text: "This is witchcraft ;_;" }
+      ];
+
       function shuffleArray(array) {
         for (let i = array.length - 1; i > 0; i--) {
           const j = Math.floor(Math.random() * (i + 1));
