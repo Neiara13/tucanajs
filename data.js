@@ -70,6 +70,7 @@
       ];
 
       const testimonials2 = [
+        { name: "Thira Isobe", server: "Shiva", text: "It was a cool puzzle! Thank you! :D" },
         { name: "Nyanr Meowsalot", server: "Lich", text: "Really well done maze, dare I say a-maze-ing" },
         { name: "Deotle Bird", server: "Moogle", text: "Got lost multiple times. Yet found all three secrets. Nice job" },
         { name: "Ry Anesis", server: "Phantom", text: "That was a lot of fun, thank you!" },
