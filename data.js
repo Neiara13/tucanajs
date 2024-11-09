@@ -154,6 +154,7 @@
       ];
 
       const testimonials3 = [
+        { name: "Rael Cebe", server: "Sagittarius", text: "Super fun, only lost my sanity 4867 times :D" },
         { name: "Ob Sidian", server: "Lich", text: "Awesome maze - definitely lost my soul in there somewhere, if anyone finds it pls return. THanks XD" },
         { name: "Rowena Helcaris", server: "Shiva", text: "With the power of friendship, we were able to do it!" },
         { name: "Thira Isobe", server: "Shiva", text: "One false step and you'd have to start all over again... it was exciting! :D" },
