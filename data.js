@@ -154,6 +154,7 @@
       ];
 
       const testimonials3 = [
+        { name: "E-e-e-e-e-e-e Eeeeee", server: "Phantom", text: "infuriating." },
         { name: "Koko Kami", server: "Spriggan", text: "Thanks for the cardio to get up the 2nd floor every time,,, awesome maze!" },
         { name: "Blueberry Slushie", server: "Spriggan", text: "4 paintings 400 falls.. 10/10 would fall again" },
         { name: "Rael Cebe", server: "Sagittarius", text: "Super fun, only lost my sanity 4867 times :D" },
