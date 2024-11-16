@@ -163,6 +163,10 @@
       ];
 
       const testimonials3 = [
+        { name: "Tohsaka Ishtar", server: "Ragnarok", text: "Pretty good maze I loved it" },
+        { name: "Guinevere Roseluin", server: "Zodiark", text: "Oh my, lets give this a go >>" },
+        { name: "Boo Bas", server: "Odin", text: "door" },
+        { name: "Keqing Yu", server: "Raiden", text: "I love my friends, I love my friends, I love my friends, I love my friends, I love my friends, I love my friends, I love my friends, my friiiiends" },
         { name: "E-e-e-e-e-e-e Eeeeee", server: "Phantom", text: "infuriating." },
         { name: "Koko Kami", server: "Spriggan", text: "Thanks for the cardio to get up the 2nd floor every time,,, awesome maze!" },
         { name: "Blueberry Slushie", server: "Spriggan", text: "4 paintings 400 falls.. 10/10 would fall again" },
