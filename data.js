@@ -1,5 +1,10 @@
     document.addEventListener("DOMContentLoaded", function() {
       const testimonials1 = [
+        { name: "Yoppie Wild", server: "Sagittarius", text: "Is fun uwu :3" },
+        { name: "Soma Vermillion", server: "Odin", text: "Cozy and welcoming here! I love it =u=" },
+        { name: "Max Gunch", server: "Phantom", text: "Lovely little spot for a drink, will visit again :)" },
+        { name: "Lou Brickkent", server: "Phantom", text: "Love the Tiki bar, great drinks and great service <3" },
+        { name: "Glacya Sagitta", server: "Spriggan", text: "A really lovely place, with nice ambiance and relaxing music. I loved my stay here and I can't wait to be back next time ^^" },
         { name: "Logos Strife", server: "Sagittarius", text: "Beautiful place with extremely welcoming and kind people" },
         { name: "Edible Falafel", server: "Twintania", text: "Cosy venue! °°° α« α« ψ( • ω • )" },
         { name: "Rosa Valentine", server: "Phantom", text: "Really gorgeous venue with even more gorgeous people ♥" },
