@@ -1,5 +1,7 @@
     document.addEventListener("DOMContentLoaded", function() {
       const testimonials1 = [
+        { "name": "Hihimai Popomai", "server": "Sagittarius", "text": "atmosphere is great also drinks so why not" },
+        { "name": "Yoppie Wild", "server": "Sagittarius", "text": "Is still fun uwu :3" },
         { name: "Leorio Visasch", server: "Louisoix", text: "Very nice bar to come and have a drink" },
         { name: "Karliah Azure", server: "Ragnarok", text: "A very friendly place and warm welcoming staff" },
         { name: "Eoxas Nice'caulk", server: "Sagittarius", text: "Caulk was satisfied" },
