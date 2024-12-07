@@ -1,5 +1,6 @@
     document.addEventListener("DOMContentLoaded", function() {
       const testimonials1 = [
+        { name: "Dru'l Une", server: "Phoenix", text: "So much love put in here, love the vibe :) so cute" },
         { name: "Cen Seven", server: "Phoenix", text: "Haven't seen a place with so much love up into it in a while - the house, the staff, the website, the rooms - seriously amazing! Keep it up" },
         { name: "Corus Po'rashun", server: "Sagittarius", text: "Never have I seen such impressive handwork with the vodka. 10/10" },
         { name: "Circe Caster", server: "Omega", text: "Thank you for the amazing chimken! Got stuck in jumping puzzle so had to log off xD <3" },
