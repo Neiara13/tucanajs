@@ -2,7 +2,7 @@
       const testimonials1 = [
         { name: "Corus Po'rashun", server: "Sagittarius", text: "Never have I seen such impressive handwork with the vodka. 10/10" },
         { name: "Circe Caster", server: "Omega", text: "Thank you for the amazing chimken! Got stuck in jumping puzzle so had to log off xD <3" },
-        { name: "Doro Lalayon", server: "Twintania", text: "Doro was here, good place... aggghhhh jumping puzzles" }.
+        { name: "Doro Lalayon", server: "Twintania", text: "Doro was here, good place... aggghhhh jumping puzzles" },
         { name: "Hihimai Popomai", server: "Sagittarius", text: "atmosphere is great also drinks so why not" },
         { name: "Yoppie Wild", server: "Sagittarius", text: "Is still fun uwu :3" },
         { name: "Leorio Visasch", server: "Louisoix", text: "Very nice bar to come and have a drink" },
