@@ -86,6 +86,7 @@
       ];
 
       const testimonials2 = [
+        { name: "Eri Antheia", server: "Sagittarius", text: "Namazu" },
         { name: "Lana Akai", server: "Lich", text: "The cake is a lie" },
         { name: "Boo Bas", server: "Odin", text: "where mustache man?!" },
         { name: "Chicken Bear", server: "Odin", text: "where da moustache man" },
