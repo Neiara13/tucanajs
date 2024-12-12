@@ -173,6 +173,13 @@
       ];
 
       const testimonials3 = [
+        { name: "Head Maid", server: "Cerberus", text: "meow" },
+        { name: "Alianne Rayne", server: "Omega", text: "I could feel my soul leaving my poor body. Good job as always! omg where is the exit," },
+        { name: "Aurora Mei", server: "Sagittarius", text: "holy crap what did I walk into xD Your neighbour from plot 30 x" },
+        { name: "Seera Florere", server: "Omega", text: "I found 3!!" },
+        { name: "Sidna Scivien", server: "Sagittarius", text: "Labyrinth of the Ancients wishes it was as infuriating as this labyrinth (and as cool too, thank you)." },
+        { name: "Vent Furoshiki", server: "Sagittarius", text: "probably not ;o;" },
+        { name: "Arthensia Mardaam", server: "Omega", text: "Only a Lalafell can create something this much evil." },
         { name: "Tohsaka Ishtar", server: "Ragnarok", text: "Pretty good maze I loved it" },
         { name: "Guinevere Roseluin", server: "Zodiark", text: "Oh my, lets give this a go >>" },
         { name: "Boo Bas", server: "Odin", text: "door" },
