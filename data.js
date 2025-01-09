@@ -1,5 +1,9 @@
     document.addEventListener("DOMContentLoaded", function() {
       const testimonials1 = [
+        { name: "Kiro Caledoni", server: "Odin", text: "Fantastic place, lots of fun! :D" },
+        { name: "Lucas Valdern", server: "Odin", text: "The Rice Brothers appreciate your kind service, expect to see us once again." },
+        { name: "Althyre Sunbringer", server: "Ragnarok", text: "I love this place! Fantastic drinks. -- Potato Approved!" },
+        { name: "Scary Toast", server: "Moogle", text: "Toast" },
         { name: "Loki Laufeyarson", server: "Spriggan", text: "lovely place! :D" },
         { name: "Naomiah Kurozucho", server: "Omega", text: "really liking this place, i could live here <3" },
         { name: "Watanka Breakmuzzle", server: "Sagittarius", text: "This place is insane, great job :o" },
