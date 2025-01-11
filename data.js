@@ -1,5 +1,6 @@
     document.addEventListener("DOMContentLoaded", function() {
       const testimonials1 = [
+        { name: "Sulfi Lirmeras", server: "Ragnarok", text: "Really beautiful place! Amazing atmosphere <3" },
         { name: "Filet Mignon", server: "Lich", text: "Such a chill and relaxing place. Will come again! ♥" },
         { name: "Myria Windsturm", server: "Cerberus", text: "A nice and lovely place, relaxing" },
         { name: "Kiro Caledoni", server: "Odin", text: "Fantastic place, lots of fun! :D" },
