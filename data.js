@@ -1,5 +1,8 @@
     document.addEventListener("DOMContentLoaded", function() {
       const testimonials1 = [
+        { name: "Therios Ellegard", server: "Phantom", text: "10/10 you can swim with the fishes" },
+        { name: "Henna Townsend", server: "Spriggan", text: "I thought I saw a minion, but it was a lalafell. I need to check my eyes :(" },
+        { name: "Hahaulu Nonoulu", server: "Phantom", text: "I like A Looot The Mascottt is sooo plushy XD" },
         { name: "Sulfi Lirmeras", server: "Ragnarok", text: "Really beautiful place! Amazing atmosphere <3" },
         { name: "Filet Mignon", server: "Lich", text: "Such a chill and relaxing place. Will come again! ♥" },
         { name: "Myria Windsturm", server: "Cerberus", text: "A nice and lovely place, relaxing" },
