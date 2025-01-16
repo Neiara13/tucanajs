@@ -1,5 +1,6 @@
     document.addEventListener("DOMContentLoaded", function() {
       const testimonials1 = [
+        { name: "Farouk Leonhart", server: "Sagittarius", text: "Beautiful place!" },
         { name: "Therios Ellegard", server: "Phantom", text: "10/10 you can swim with the fishes" },
         { name: "Henna Townsend", server: "Spriggan", text: "I thought I saw a minion, but it was a lalafell. I need to check my eyes :(" },
         { name: "Hahaulu Nonoulu", server: "Phantom", text: "I like A Looot The Mascottt is sooo plushy XD" },
