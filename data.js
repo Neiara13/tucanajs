@@ -1,5 +1,7 @@
     document.addEventListener("DOMContentLoaded", function() {
       const testimonials1 = [
+        { name: "Lost Shadow", server: "Sagittarius", text: "Really nice place!" },
+        { name: "Rainzne Rensoho", server: "Sagittarius", text: "Nice!" },
         { name: "Gdrari Ooze", server: "Omega", text: "x.x" },
         { name: "Rey Alex", server: "Phantom", text: "Such an amazing place. You nailed the atmosphere of a tropical bar <3" },
         { name: "Sarah Luxford", server: "Omega", text: "I likey games, Sarah is happy" },
