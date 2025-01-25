@@ -1,5 +1,6 @@
     document.addEventListener("DOMContentLoaded", function() {
       const testimonials1 = [
+        { name: "Fortnite Gamer", server: "Sagittarius", text: "You really brought out the $15 battle pass in me!" },
         { name: "Lost Shadow", server: "Sagittarius", text: "Really nice place!" },
         { name: "Rainzne Rensoho", server: "Sagittarius", text: "Nice!" },
         { name: "Gdrari Ooze", server: "Omega", text: "x.x" },
