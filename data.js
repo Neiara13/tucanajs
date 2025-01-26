@@ -1,5 +1,12 @@
     document.addEventListener("DOMContentLoaded", function() {
       const testimonials1 = [
+        { name: "Vindir Snowleaf", server: "Louisoix", text: "They gave me 2.0 vodka but it was obviously 1.0." },
+        { name: "Maximian Van'basilia", server: "Ragnarok", text: "The lord of this castle would serve as an excellent imperial governor, Approved for Imperial Garlean business!" },
+        { name: "Judge Artema", server: "Ragnarok", text: "Best Outdoors & best Indoors; I didn't expect much but then got very surprised! Drinks 10/10." },
+        { name: "Karm Life", server: "Ragnarok", text: "Lovely atmosphere! Thank you for having us raid your bar B)" },
+        { name: "Fat Bear", server: "Ragnarok", text: "SCURRY AND SCATTER" },
+        { name: "Juno Locri", server: "Ragnarok", text: "HOLY SHIT THIS IS BEAUTIFUL AAAAAAAAAAAAAAAAAAAAA (I say calm and collected)" },
+        { name: "Quistis Shikiyoku", server: "Moogle", text: "Nice Home !! ^^" },\
         { name: "Fortnite Gamer", server: "Sagittarius", text: "You really brought out the $15 battle pass in me!" },
         { name: "Lost Shadow", server: "Sagittarius", text: "Really nice place!" },
         { name: "Rainzne Rensoho", server: "Sagittarius", text: "Nice!" },
