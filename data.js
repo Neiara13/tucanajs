@@ -6,7 +6,7 @@
         { name: "Karm Life", server: "Ragnarok", text: "Lovely atmosphere! Thank you for having us raid your bar B)" },
         { name: "Fat Bear", server: "Ragnarok", text: "SCURRY AND SCATTER" },
         { name: "Juno Locri", server: "Ragnarok", text: "HOLY SHIT THIS IS BEAUTIFUL AAAAAAAAAAAAAAAAAAAAA (I say calm and collected)" },
-        { name: "Quistis Shikiyoku", server: "Moogle", text: "Nice Home !! ^^" },\
+        { name: "Quistis Shikiyoku", server: "Moogle", text: "Nice Home !! ^^" },
         { name: "Fortnite Gamer", server: "Sagittarius", text: "You really brought out the $15 battle pass in me!" },
         { name: "Lost Shadow", server: "Sagittarius", text: "Really nice place!" },
         { name: "Rainzne Rensoho", server: "Sagittarius", text: "Nice!" },
