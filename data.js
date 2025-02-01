@@ -1,5 +1,9 @@
     document.addEventListener("DOMContentLoaded", function() {
       const testimonials1 = [
+        { name: "Bert Slowpoke", server: "Moogle", text: "Slowpoked! Really enjoyed the jumping puzzles! I will be back and I am happy that Quenjamin is taking care of my prized possession until then!" },
+        { name: "Alucard Lightstrider", server: "Omega", text: "AMAZING bar" },
+        { name: "Lootmilla Von'miez", server: "Moogle", text: "Such a beautiful venue, love the creativity and ideas, 15/10 amazing vibes." },
+        { name: "Tassel Ka'mai", server: "Louisoix", text: "A glowing book is a happy book. This is the way." },
         { name: "Vindir Snowleaf", server: "Louisoix", text: "They gave me 2.0 vodka but it was obviously 1.0." },
         { name: "Maximian Van'basilia", server: "Ragnarok", text: "The lord of this castle would serve as an excellent imperial governor, Approved for Imperial Garlean business!" },
         { name: "Judge Artema", server: "Ragnarok", text: "Best Outdoors & best Indoors; I didn't expect much but then got very surprised! Drinks 10/10." },
