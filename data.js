@@ -1,5 +1,6 @@
     document.addEventListener("DOMContentLoaded", function() {
       const testimonials1 = [
+        { name: "Avari Ra", server: "Spriggan", text: "Love the vibe here! ^.^" },
         { name: "Bert Slowpoke", server: "Moogle", text: "Slowpoked! Really enjoyed the jumping puzzles! I will be back and I am happy that Quenjamin is taking care of my prized possession until then!" },
         { name: "Alucard Lightstrider", server: "Omega", text: "AMAZING bar" },
         { name: "Lootmilla Von'miez", server: "Moogle", text: "Such a beautiful venue, love the creativity and ideas, 15/10 amazing vibes." },
