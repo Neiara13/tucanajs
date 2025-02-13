@@ -1,5 +1,7 @@
     document.addEventListener("DOMContentLoaded", function() {
       const testimonials1 = [
+        { name: "Pomhub Ceo", server: "Sagittarius", text: "floor inspector is bacc" },
+        { name: "Lalayi Layi", server: "Shiva", text: "book" },
         { name: "Another Saint", server: "Spriggan", text: "Y'all. Y'all are so cute!!! AMAZING PLACE!!!!" },
         { name: "Silidh Skye", server: "Omega", text: "Nice gaff" },
         { name: "Avari Ra", server: "Spriggan", text: "Love the vibe here! ^.^" },
