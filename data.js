@@ -142,6 +142,9 @@
       ];
 
       const testimonials2 = [
+        { name: "Kiruna Asaki", server: "Twintania", text: "Terrifying(ly good) maze! The instructional video was also excellent :3" },
+        { name: "Alice Margatroid", server: "Omega", text: "This was very interesting and fun to navigate thru, loved it" },
+        { name: "Iresine Ametris", server: "Omega", text: "Had a ton of fun!" },
         { name: "Eri Antheia", server: "Sagittarius", text: "Namazu" },
         { name: "Lana Akai", server: "Lich", text: "The cake is a lie" },
         { name: "Boo Bas", server: "Odin", text: "where mustache man?!" },
@@ -230,6 +233,7 @@
       ];
 
       const testimonials3 = [
+        { name: "Kiruna Asaki", server: "Twintania", text: "meowma mia.." },
         { name: "Alianne Rayne", server: "Omega", text: "I could feel my soul leaving my poor body. Good job as always! omg where is the exit," },
         { name: "Aurora Mei", server: "Sagittarius", text: "holy crap what did I walk into xD Your neighbour from plot 30 x" },
         { name: "Seera Florere", server: "Omega", text: "I found 3!!" },
