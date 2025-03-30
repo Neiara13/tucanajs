@@ -142,6 +142,7 @@
       ];
 
       const testimonials2 = [
+        { name: "Agora Innuego", server: "Sagittarius", text: "ГОOOOOOOOOOOOOOOOOOOOOOOOЛ" },
         { name: "Kiruna Asaki", server: "Twintania", text: "Terrifying(ly good) maze! The instructional video was also excellent :3" },
         { name: "Alice Margatroid", server: "Omega", text: "This was very interesting and fun to navigate thru, loved it" },
         { name: "Iresine Ametris", server: "Omega", text: "Had a ton of fun!" },
