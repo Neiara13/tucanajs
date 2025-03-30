@@ -1,5 +1,6 @@
     document.addEventListener("DOMContentLoaded", function() {
       const testimonials1 = [
+        { name: "Verlfert Voxfarne", server: "Spriggan", text: "The look and ambience of this place looks great yo!" },
         { name: "Ianto Dono", server: "Sagittarius", text: "Burn this house <3. It had melted my mind thanks in advance!" },
         { name: "Feyne Mier", server: "Omega", text: "This place looks awesome, love it. Also Room 9 is so pretty! :3" },
         { name: "Lolopo Lopo", server: "Zodiark", text: "Excellent decoration sense, sunken bar under the stars is inspirational." },
