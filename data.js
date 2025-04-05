@@ -1,5 +1,6 @@
     document.addEventListener("DOMContentLoaded", function() {
       const testimonials1 = [
+        { name: "Lisa Lialeth", server: "Twintania", text: "such a lovely bar! the design is amazing" },
         { name: "Sillysa Irana'ethil", server: "Omega", text: "So pretty, I especially love the waterfall <3" },
         { name: "Verlfert Voxfarne", server: "Spriggan", text: "The look and ambience of this place looks great yo!" },
         { name: "Ianto Dono", server: "Sagittarius", text: "Burn this house <3. It had melted my mind thanks in advance!" },
