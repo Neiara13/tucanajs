@@ -1,5 +1,8 @@
     document.addEventListener("DOMContentLoaded", function() {
       const testimonials1 = [
+        { name: "Beez Kavo", server: "Sagittarius", text: "oil oil oil, масло по второму слою, грязный билли разрешил." },
+        { name: "Fofvo Chego", server: "Sagittarius", text: "ПАША ТЕХНИК ЖИВ" },
+        { name: "Sebastian Deisler", server: "Phantom", text: "Bar design is amazng, very relaxing. Shroom of doom is a nightmare" },
         { name: "Lisa Lialeth", server: "Twintania", text: "such a lovely bar! the design is amazing" },
         { name: "Sillysa Irana'ethil", server: "Omega", text: "So pretty, I especially love the waterfall <3" },
         { name: "Verlfert Voxfarne", server: "Spriggan", text: "The look and ambience of this place looks great yo!" },
