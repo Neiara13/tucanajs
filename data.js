@@ -148,6 +148,8 @@
       ];
 
       const testimonials2 = [
+        { name: "Raelynn Tirasch", server: "Phantom", text: "Very exciting. A lot of fun! :D" },
+        { name: "Rosa Diaz", server: "Phantom", text: "cant find the Red Doll but found the cake and the secret room :D" },
         { name: "Agora Innuego", server: "Sagittarius", text: "ГОOOOOOOOOOOOOOOOOOOOOOOOЛ" },
         { name: "Kiruna Asaki", server: "Twintania", text: "Terrifying(ly good) maze! The instructional video was also excellent :3" },
         { name: "Alice Margatroid", server: "Omega", text: "This was very interesting and fun to navigate thru, loved it" },
