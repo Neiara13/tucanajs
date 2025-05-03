@@ -1,5 +1,9 @@
     document.addEventListener("DOMContentLoaded", function() {
       const testimonials1 = [
+        { name: "Kagura Tsuki", server: "Louisoix", text: "\"I brought the monkey with me\" - Kagura" },
+        { name: "Alban Xv", server: "Sagittarius", text: "very cool very nice i like" },
+        { name: "Yachiyo Nagae", server: "Alpha", text: "Really cozy tropical place :D love it" },
+        { name: "Lucrece Crescent", server: "Louisoix", text: "One of the most wonderful places in this game. Congratulations for your work. It's always a pleasure to visit your bar <3" },
         { name: "Beez Kavo", server: "Sagittarius", text: "oil oil oil, масло по второму слою, грязный билли разрешил." },
         { name: "Fofvo Chego", server: "Sagittarius", text: "ПАША ТЕХНИК ЖИВ" },
         { name: "Sebastian Deisler", server: "Phantom", text: "Bar design is amazng, very relaxing. Shroom of doom is a nightmare" },
