@@ -1,5 +1,9 @@
     document.addEventListener("DOMContentLoaded", function() {
       const testimonials1 = [
+        { name: "Ivo Robotnik", server: "Spriggan", text: "Hello connoisseurs of cocktails! I'm here to regale you with a positively egg-ceptional review of the splendid Tucana Tiki Bar is 100 out of 10 place" },
+        { name: "Alisia The'morgenrot", server: "Phantom", text: "тупа балдёж" },
+        { name: "Guy Guy", server: "Raiden", text: "In the tiki, tiki, tiki, tiki, tiki room, all the birds sing words and the flowers croon, in the tiki, tiki, tiki, tiki, tiki room!" },
+        { name: "Stalinsa Live", server: "Shiva", text: "Bad to the Bun" },
         { name: "Kagura Tsuki", server: "Louisoix", text: "\"I brought the monkey with me\" - Kagura" },
         { name: "Alban Xv", server: "Sagittarius", text: "very cool very nice i like" },
         { name: "Yachiyo Nagae", server: "Alpha", text: "Really cozy tropical place :D love it" },
