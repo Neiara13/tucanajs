@@ -1,8 +1,16 @@
     document.addEventListener("DOMContentLoaded", function() {
       const testimonials1 = [
+        { name: "El Harg", server: "Phantom", text: "Superb roast chicken and service" },
+        { name: "Nirli Solvik", server: "Louisoix", text: "Cool and relaxing spot, Calna was super patient even when we messed up our order!" },
+        { name: "Inferno Ashes", server: "Louisoix", text: "Pineapple punch" },
+        { name: "Doku Lunaire", server: "Louisoix", text: "Great bar! beautiful place" },
+        { name: "Peach Calaquendi", server: "Louisoix", text: "Lovely bar! Felt like I was home" },
+        { name: "Deofol Awestend", server: "Phantom", text: "This place is awesome, 10/10 would visit again, great vibe, awesome atmosphere. Everything you need out of an exotic Bar." },
+        { name: "Enji Irskka", server: "Spriggan", text: "the housewife “Luma” is not nice" },
+        { name: "Minka Miez", server: "Omega", text: "It looks so pretty and comfy in here... well done :3" },
+        { name: "Guy Guy", server: "Raiden", text: "In the tiki, tiki, tiki, tiki, tiki room, all the birds sing words and the flowers croon, in the tiki, tiki, tiki, tiki, tiki room!" },
         { name: "Ivo Robotnik", server: "Spriggan", text: "Hello connoisseurs of cocktails! I'm here to regale you with a positively egg-ceptional review of the splendid Tucana Tiki Bar is 100 out of 10 place" },
         { name: "Alisia The'morgenrot", server: "Phantom", text: "тупа балдёж" },
-        { name: "Guy Guy", server: "Raiden", text: "In the tiki, tiki, tiki, tiki, tiki room, all the birds sing words and the flowers croon, in the tiki, tiki, tiki, tiki, tiki room!" },
         { name: "Stalinsa Live", server: "Shiva", text: "Bad to the Bun" },
         { name: "Kagura Tsuki", server: "Louisoix", text: "\"I brought the monkey with me\" - Kagura" },
         { name: "Alban Xv", server: "Sagittarius", text: "very cool very nice i like" },
