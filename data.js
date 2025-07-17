@@ -1,5 +1,15 @@
     document.addEventListener("DOMContentLoaded", function() {
       const testimonials1 = [
+
+        { name: "Chio Miu", server: "Phoenix", text: "This is a crazy amount of afford put in the house. Well done and relaxing." },
+        { name: "Ivo Robotnik", server: "Spriggan", text: "Better service with better people, something so simple yet complex. 10 out of 10, would go again" },
+        { name: "Ensetsu Daisho", server: "Phantom", text: "Very nice people very nice food... would go again... with my crew..." },
+        { name: "Genji Kazama", server: "Twintania", text: "This is a VERY nice and relaxing venue! Such a nice design. To bad i missed the opening.. I hope to visit once again and order a nice drink next time! - Genji x" },
+        { name: "Kagura Tsuki", server: "Louisoix", text: "carrot juice, weird but ty" },
+        { name: "Alucard Shams", server: "Spriggan", text: "Lovely place & lovely people for a lovely moment <3" },
+        { name: "Jimmy Whiskers", server: "Zodiark", text: "Thanks for the drink" },
+        { name: "Yorumi Niwa", server: "Sagittarius", text: "First time here and I had a great time. Lovely staff and friendly people." },
+        { name: "Safety Inspector", server: "Zodiark", text: "Burning torches near the foliage could do with moving a bit further out. Satisfactory inspection. Great job." },
         { name: "El Harg", server: "Phantom", text: "Superb roast chicken and service" },
         { name: "Nirli Solvik", server: "Louisoix", text: "Cool and relaxing spot, Calna was super patient even when we messed up our order!" },
         { name: "Inferno Ashes", server: "Louisoix", text: "Pineapple punch" },
