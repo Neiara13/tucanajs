@@ -1,6 +1,5 @@
     document.addEventListener("DOMContentLoaded", function() {
       const testimonials1 = [
-
         { name: "Chio Miu", server: "Phoenix", text: "This is a crazy amount of afford put in the house. Well done and relaxing." },
         { name: "Ivo Robotnik", server: "Spriggan", text: "Better service with better people, something so simple yet complex. 10 out of 10, would go again" },
         { name: "Ensetsu Daisho", server: "Phantom", text: "Very nice people very nice food... would go again... with my crew..." },
