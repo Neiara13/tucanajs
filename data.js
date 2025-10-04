@@ -1,5 +1,16 @@
     document.addEventListener("DOMContentLoaded", function() {
       const testimonials1 = [
+        { name: "Rydall Kross", server: "Ragnarok", text: "Cozy place, staff was nice. 10/10" },
+        { name: "Lyho Yolohy", server: "Louisoix", text: "Very beautiful place, I loved spending time here, I'll definitely come back and do more puzzle!" },
+        { name: "Kind'hra Yolohy", server: "Louisoix", text: "Wonderful place and very relaxing, we'll be happy to come back!" },
+        { name: "Gora Waldhammer", server: "Sagittarius", text: "Meow" },
+        { name: "Welkin Rosenquist", server: "Ragnarok", text: "Tucana Tiki Bar" },
+        { name: "Samorez Lionheart", server: "Cerberus", text: "10/10" },
+        { name: "Katherine Kek", server: "Ragnarok", text: "Where is traktor chilaba" },
+        { name: "Xavier Wilford", server: "Sagittarius", text: "You guys are awesome!" },
+        { name: "Castiel Umbra", server: "Shiva", text: "Amazing! Everything is amazing! <3 I will come back :3" },
+        { name: "Bella Aurora", server: "Shiva", text: "One of the most beautiful places I've ever seen, very relaxing <3" },
+        { name: "Rathian Apex", server: "Cerberus", text: "Very beautiful and relaxing place. I'll definitely come back here to chill out and experience puzzles." },
         { name: "Chio Miu", server: "Phoenix", text: "This is a crazy amount of afford put in the house. Well done and relaxing." },
         { name: "Ivo Robotnik", server: "Spriggan", text: "Better service with better people, something so simple yet complex. 10 out of 10, would go again" },
         { name: "Ensetsu Daisho", server: "Phantom", text: "Very nice people very nice food... would go again... with my crew..." },
