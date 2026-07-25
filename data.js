@@ -1,5 +1,7 @@
     document.addEventListener("DOMContentLoaded", function() {
       const testimonials1 = [
+        { name: "Haneli Duneli", server: "Spriggan", text: "A lovely place. Nice service. Enjoyed lurking. Try the Lychee lemonade!" },
+        { name: "Zane Windfall", server: "Sagittarius", text: "I really enjoy the design of the place and the staff, cozy and very welcoming. Looking forward to coming back again" },
         { name: "Ririchiyo Shirakiin", server: "Phoenix", text: "Read about the place from Elara, very cozy, nice sounds and enviroment is very relaxing. Good I took my way in here :D <3" },
         { name: "L'koliwe Netih", server: "Zodiark", text: "Very nice place! I enjoyed my evening here. I will come back again" },
         { name: "Komi Shouko", server: "Ragnarok", text: "Super bar, The staff is very friendly, The drinks are very good And the atmosphere, with your tame birds singing for us, is Amazing !" },
