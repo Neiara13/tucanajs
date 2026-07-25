@@ -1,5 +1,6 @@
     document.addEventListener("DOMContentLoaded", function() {
       const testimonials1 = [
+        { name: "Ririchiyo Shirakiin", server: "Phoenix", text: "Read about the place from Elara, very cozy, nice sounds and enviroment is very relaxing. Good I took my way in here :D <3" },
         { name: "L'koliwe Netih", server: "Zodiark", text: "Very nice place! I enjoyed my evening here. I will come back again" },
         { name: "Komi Shouko", server: "Ragnarok", text: "Super bar, The staff is very friendly, The drinks are very good And the atmosphere, with your tame birds singing for us, is Amazing !" },
         { name: "Ravaa Qoet", server: "Ragnarok", text: "Very nice drinks. Puzzles were fun. Scenic room - perfect! Thank you Celna and Abraxas. 100/100- will come again! :)" },
