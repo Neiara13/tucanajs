@@ -1,5 +1,17 @@
     document.addEventListener("DOMContentLoaded", function() {
       const testimonials1 = [
+        { name: "L'koliwe Netih", server: "Zodiark", text: "Very nice place! I enjoyed my evening here. I will come back again" },
+        { name: "Komi Shouko", server: "Ragnarok", text: "Super bar, The staff is very friendly, The drinks are very good And the atmosphere, with your tame birds singing for us, is Amazing !" },
+        { name: "Ravaa Qoet", server: "Ragnarok", text: "Very nice drinks. Puzzles were fun. Scenic room - perfect! Thank you Celna and Abraxas. 100/100- will come again! :)" },
+        { name: "Alma Remornia", server: "Sagittarius", text: "Great place, fun community." },
+        { name: "Solon Nette", server: "Moogle", text: "Very good, bar, team and cocktail ;), Abraxas the G.O.A.T" },
+        { name: "Y'rahuta D'sobeck", server: "Phantom", text: "Jump, Forest, Jump!" },
+        { name: "K'siru Rivih", server: "Louisoix", text: "About the comfiest place." },
+        { name: "Ruby Bloody", server: "Moogle", text: "I love the jumping room & the little waterfall room ! peace and love !" },
+        { name: "Arwayne Kurooni", server: "Sagittarius", text: "wrong time" },
+        { name: "Grey Grieyer", server: "Twintania", text: "Nice place, locals seem friendly" },
+        { name: "Ndia Fhey", server: "Sagittarius", text: "Very cozy, a place to hangout with friends and get a few drinks. The bartender Genkei is really elegant. ♥" },
+        { name: "Arlen Voss", server: "Spriggan", text: "Had an awesome nap, thanks! - Chicken Man" },
         { name: "Kitsuri Tsuri", server: "Spriggan", text: "Cool venue, nice parkours, fun for everyone who love that. (I hate parkour but i like this place!)" },
         { name: "Kai Zoku", server: "Louisoix", text: "I ..*Hiccup*.. I love these guys! let me tell.. *hiccup* you!... Lala's are accepted.. and *Hiccup* i enjoyed my time! first time, won't be the last! *Hiccup*" },
         { name: "Nosomi Soulwind", server: "Spriggan", text: "This is a wonderful place. Absolutely beautiful. Relaxing. Thank you for building this <3 I'll maybe just stay here." },
