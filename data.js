@@ -1,5 +1,10 @@
     document.addEventListener("DOMContentLoaded", function() {
       const testimonials1 = [
+        { name: "Lufreyr Mayday", server: "Spriggan", text: "THEY COOK LALAFELLS IN A KETTLE" },
+        { name: "Zefra Arda", server: "Spriggan", text: "Very nice bartender, and the little bird by the water is very cute! XO" },
+        { name: "Nox Light'n", server: "Spriggan", text: "So much work here!!!!! I love build and visit house, yours is WONDERFUL, Tiki theme is everywhere =^.^=/" },
+        { name: "Diar Shirou", server: "Shiva", text: "Love it!" },
+        { name: "Emy Deserte", server: "Phantom", text: "♥I love it!♥ Amazing place!" },
         { name: "Haneli Duneli", server: "Spriggan", text: "A lovely place. Nice service. Enjoyed lurking. Try the Lychee lemonade!" },
         { name: "Zane Windfall", server: "Sagittarius", text: "I really enjoy the design of the place and the staff, cozy and very welcoming. Looking forward to coming back again" },
         { name: "Ririchiyo Shirakiin", server: "Phoenix", text: "Read about the place from Elara, very cozy, nice sounds and enviroment is very relaxing. Good I took my way in here :D <3" },
