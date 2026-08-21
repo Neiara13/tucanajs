@@ -1,5 +1,8 @@
     document.addEventListener("DOMContentLoaded", function() {
       const testimonials1 = [
+        { name: "Kede Coraz", server: "Odin", text: "nice visit, friendly bartender. Relaxing hot tub. Thank you." },
+        { name: "Shoe Lace", server: "Phantom", text: "awesome gaf" },
+        { name: "Alma Remornia", server: "Sagittarius", text: "Still the coziest venue. Love to visit. <3" },
         { name: "Lufreyr Mayday", server: "Spriggan", text: "THEY COOK LALAFELLS IN A KETTLE" },
         { name: "Zefra Arda", server: "Spriggan", text: "Very nice bartender, and the little bird by the water is very cute! XO" },
         { name: "Nox Light'n", server: "Spriggan", text: "So much work here!!!!! I love build and visit house, yours is WONDERFUL, Tiki theme is everywhere =^.^=/" },
