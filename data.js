@@ -1,5 +1,11 @@
     document.addEventListener("DOMContentLoaded", function() {
       const testimonials1 = [
+        { name: "Levandyr Tartaros", server: "Sagittarius", text: "The bar is very athmospheric and the staff are really kind! I really like the ambience and the plants♥" },
+        { name: "Fifi Splash", server: "Phantom", text: "Tiki tiki !!!" },
+        { name: "Nsu'yeul Paddra", server: "Alpha", text: "Love what You've done with the place!" },
+        { name: "Ken Guru", server: "Sagittarius", text: "im really bad at the jumping puzzles" },
+        { name: "Maenel Milenia", server: "Raiden", text: "Such a beautifully made venue!!" },
+        { name: "Justaye Fish", server: "Sagittarius", text: "TikiBar is The Best Bar, Fih approved." },
         { name: "Kede Coraz", server: "Odin", text: "nice visit, friendly bartender. Relaxing hot tub. Thank you." },
         { name: "Shoe Lace", server: "Phantom", text: "awesome gaf" },
         { name: "Alma Remornia", server: "Sagittarius", text: "Still the coziest venue. Love to visit. <3" },
