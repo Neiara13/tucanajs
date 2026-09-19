@@ -1,5 +1,17 @@
     document.addEventListener("DOMContentLoaded", function() {
       const testimonials1 = [
+        { name: "Denmo Mcstronghuge", server: "Raiden", text: "200+ people saw your sins alongside me. Good stuff." },
+        { name: "Plume Mielleuse", server: "Phantom", text: "This place is very lovely, a nice ambiance to relax with friends !" },
+        { name: "Miadame Mielleuse", server: "Phantom", text: "I love tiki bar and tiki friends ^^" },
+        { name: "Draxon Shadow", server: "Shiva", text: "great looking bar, i think I signed my life away to the frog." },
+        { name: "Xihsan Shadow", server: "Shiva", text: "Very lovely place! The bar looks amazing and the bartenders do an phenomenal job in serving the customers! :)" },
+        { name: "Kara Bonkie", server: "Cerberus", text: "lovely place!" },
+        { name: "Rydall Kross", server: "Ragnarok", text: "glad to see this place still running xo" },
+        { name: "Ahissa Chocolate", server: "Sagittarius", text: "Appears that after my last adventure with the most famous eclipse lesbian  somepoint became the vice captain of the invader, we will invade again !" },
+        { name: "Xiionn Lunartear", server: "Sagittarius", text: "we will invade the bar again if needed." },
+        { name: "Oyeye Oye", server: "Louisoix", text: "Funny little group that took over the Bar~" },
+        { name: "Mits Keet", server: "Lich", text: "Hahahahahaha, we run this block now!!" },
+        { name: "Rizu Mochizuki", server: "Omega", text: "Successfully invaded. May the Azure Skies bless you with vision of enlightenment." },
         { name: "Levandyr Tartaros", server: "Sagittarius", text: "The bar is very athmospheric and the staff are really kind! I really like the ambience and the plants♥" },
         { name: "Fifi Splash", server: "Phantom", text: "Tiki tiki !!!" },
         { name: "Nsu'yeul Paddra", server: "Alpha", text: "Love what You've done with the place!" },
